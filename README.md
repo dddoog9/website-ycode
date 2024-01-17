@@ -12,4 +12,4 @@ Visual development platform for designers platform for designers
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
